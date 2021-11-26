@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MCD_OOPNedir", "MCD_OOPNedir\MCD_OOPNedir.csproj", "{7735B46E-49A8-4A46-8CB8-3C8BCF4A8628}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7735B46E-49A8-4A46-8CB8-3C8BCF4A8628}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7735B46E-49A8-4A46-8CB8-3C8BCF4A8628}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7735B46E-49A8-4A46-8CB8-3C8BCF4A8628}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7735B46E-49A8-4A46-8CB8-3C8BCF4A8628}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B91BDA54-35ED-4BF2-A6F1-56BB84120FC6}
+	EndGlobalSection
+EndGlobal
